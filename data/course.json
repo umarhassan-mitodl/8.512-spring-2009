@@ -1,0 +1,56 @@
+{
+  "term": "Spring",
+  "year": "2009",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Mechanical Engineering",
+      "Solid Mechanics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Atomic, Molecular, Optical Physics"
+    ],
+    [
+      "Science",
+      "Physics",
+      "Condensed Matter Physics"
+    ]
+  ],
+  "legacy_uid": "1bcf684b-d659-57d8-c355-2aa0b99db5c7",
+  "instructors": {
+    "content": [
+      "0c24707a-4a5d-edef-c32f-842b95f32139"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "a622e46b-5602-6408-83aa-13f915dc3992",
+    "website": "8-512-theory-of-solids-ii-spring-2009"
+  },
+  "course_title": "Theory of Solids II",
+  "hide_download": true,
+  "course_description": "This is the second term of a theoretical treatment of the physics of solids. Topics covered include linear response theory; the physics of disorder; superconductivity; the local moment and itinerant magnetism; the Kondo problem and Fermi liquid theory.\n",
+  "department_numbers": [
+    "8"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "8.512",
+  "course_image_thumbnail": {
+    "content": "5d81f2c6-c90e-7480-0833-debe1f9b7d20",
+    "website": "8-512-theory-of-solids-ii-spring-2009"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "9c9206ae-54cf-4e4c-9c08-c0941a308ed3",
+  "site_short_id": "8.512-spring-2009",
+  "site_url_path": "courses/8-512-theory-of-solids-ii-spring-2009",
+  "title": "Course Metadata"
+}
