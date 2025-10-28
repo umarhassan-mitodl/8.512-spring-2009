@@ -33,7 +33,6 @@
     "website": "8-512-theory-of-solids-ii-spring-2009"
   },
   "course_title": "Theory of Solids II",
-  "hide_download": true,
   "course_description": "This is the second term of a theoretical treatment of the physics of solids. Topics covered include linear response theory; the physics of disorder; superconductivity; the local moment and itinerant magnetism; the Kondo problem and Fermi liquid theory.\n",
   "department_numbers": [
     "8"
@@ -44,7 +43,6 @@
     "content": "5d81f2c6-c90e-7480-0833-debe1f9b7d20",
     "website": "8-512-theory-of-solids-ii-spring-2009"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets"
